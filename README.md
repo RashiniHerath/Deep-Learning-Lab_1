@@ -22,6 +22,9 @@ Attack, Defense, Sp. Ark, Sp. Def, Speed] features in the seaborn tutorial.ipynb
 results using heatmaps. Make sure the values are displaced in the heatmap as well.
 
 Task 2
+
+
+
 Download the Au_nanoParticle_dataset.csv and load the data of the csv file as a dataframe in a new 
 colab notebook. Do the below subtask with the dataset. Use any of the above libraries if needed.
 
